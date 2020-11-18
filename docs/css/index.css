@@ -1,0 +1,24 @@
+.navbar {
+    background-color: #b3daff;
+}
+
+#myCarousel .carousel-inner .carousel-item {
+    height: 19rem;
+}
+
+.black-overlay{position:absolute;
+    top:0px;
+    left:0px;
+    height:100%;
+    width:100%;
+    background:rgba(0,0,0,0.6)
+}
+
+.page-footer{
+    background-color: #b3daff;
+}
+
+
+
+
+
